@@ -1,9 +1,7 @@
-# \[Group name\]
+# WilhelmBK
 
 **Group members:**
-- A
-- B
-- C
+- Wilhelm Brøbech Krings
 
 This repository contains  
 1. Inaugural project. 
